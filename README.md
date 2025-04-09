@@ -52,3 +52,7 @@ export default tseslint.config({
   },
 })
 ```
+
+## .env file configuration
+
+To run this project, you will need to get a CoinCap API key. It's free, and you put it into an .env file in the root of your project with the variable name VITE_COINCAP_API_KEY
